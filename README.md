@@ -149,3 +149,8 @@
 - Artist: 레드벨벳
 - Genre: K-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=WyiIGEHQP8o)
+
+## YES OR NO
+- Artist: 정국
+- Genre: K-POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=uOFIcm-L0po)
